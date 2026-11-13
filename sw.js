@@ -9,7 +9,8 @@ const ARQUIVOS = [
   './app.js',
   './manifest.json',
   './icon-192.png',
-  './icon-512.png'
+  './icon-512.png',
+  './icon-maskable.png',
 ];
 
 // 1. INSTALAÇÃO: baixa e guarda os arquivos da lista
